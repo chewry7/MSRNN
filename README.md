@@ -1,4 +1,4 @@
 # MSRNN
 
-Multi-scale Recurrent Encoder-Decoder Network for Dense Temporal Classification
+Multi-scale Recurrent Encoder-Decoder Network for Background Subtraction
 
